@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  *_strcat - Concatenates two strings together
  * @dest: A pointer to  a character that will be changed
  * @src: A pointer to a source string
